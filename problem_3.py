@@ -6,5 +6,5 @@ i = 0
 while i < x:
 	sum = arr1[i] + arr2[i]
 	result.append (sum)
-	i += 1
+	i += 1	
 print result
